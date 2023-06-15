@@ -1,0 +1,24 @@
+.headerTopBox {
+  background-color: #000;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.headerTopContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+.headerTopIcon {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+}
+.headerTopText {
+  display: flex;
+  flex-direction: row;
+  gap: 25px ;
+}

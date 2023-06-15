@@ -1,0 +1,9 @@
+.carousel-box {
+  height: 700px;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-image: url(../../../../assets/imgs/Carousel.png);
+}
+.carousel-box__text {
+  padding-top: 250px;
+}
